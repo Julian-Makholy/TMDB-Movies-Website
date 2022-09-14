@@ -1,4 +1,10 @@
 module.exports = {
+  content:[
+    "./resources/**/*.blade.php",
+    "./resources/**/*.js",
+    "./resources/**/*.vue",
+    "./node_modules/flowbite/**/*.js"
+  ],
   theme: {
     extend: {
         width: {
@@ -16,6 +22,7 @@ module.exports = {
   },
   variants: {},
   plugins: [
-      require('tailwindcss-spinner')(),
+    require('flowbite/plugin'),
+    require('tailwindcss-spinner')(),
   ],
 }
