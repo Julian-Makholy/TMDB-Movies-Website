@@ -1,3 +1,9 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+## About this Laravel project
+<br />
+A simple and easy to use movie website
+
 ![screenshot](https://user-images.githubusercontent.com/4316355/78681326-98bd1480-78ba-11ea-9cd8-3052397a87a7.png)
 
 # Laravel Movies Example
@@ -23,3 +29,8 @@ If you would like to follow along and start from a particular point, follow thes
 1. Clone the repo and `cd` into it
 1. `git checkout 22fa456`
 
+
+## License
+<br />
+
+This is an open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
